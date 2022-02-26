@@ -1,4 +1,4 @@
-# Entornos de Desarrollo - 06 Diseño OO: Diagrama de Clases
+# Entornos de Desarrollo - 06 Diseño OO: Diagrama de Clases.
 Tema 06. Diseño OO: Diagrama de Clases. Curso 2021/2022.
 
 ![imagen](https://www.businesstrends.com.pk/wp-content/uploads/2019/03/Web-Development-Company.png)
